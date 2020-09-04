@@ -2,7 +2,7 @@
 conda create phindhack_wes
 conda activate phindhack_wes
 
-# install packages required for wes quality control using conda from the bioconda channel
+# Install packages required for WES quality control - Bioconda Channel
 conda install -c bioconda fastqc
 conda install -c bioconda multiqc
 
